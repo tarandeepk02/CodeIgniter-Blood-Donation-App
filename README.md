@@ -48,7 +48,7 @@ The **CodeIgniter-Blood-Donation-App (i Blood Donor)** is a web-based applicatio
 
 ## 📸 Screenshots
 
-### 🔐 Home Page  
+### 🏠 Home Page  
 ![Admin Login](screenshots/home-page.png)
 
 ### 🔐 Admin Login Page  
