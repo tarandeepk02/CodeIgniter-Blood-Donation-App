@@ -72,7 +72,7 @@ The **CodeIgniter-Blood-Donation-App (i Blood Donor)** is a web-based applicatio
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/CodeIgniter-Blood-Donation-App.git
+   git clone https://github.com/tarandeepk02/CodeIgniter-Blood-Donation-App.git
    ```
 2. Move project to your local server root
 
