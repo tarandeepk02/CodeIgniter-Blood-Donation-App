@@ -102,19 +102,15 @@ The **CodeIgniter-Blood-Donation-App (i Blood Donor)** is a web-based applicatio
 
    ## 👨‍💼 Admin Login
          
-            ```
             Email: admin@gmail.com
             
             Password: 123456
-            ```
    
    ## 👨‍💼 Donor Login
 
-            ```   
             Email: donor@gmail.com
             
             Password: 123456
-            ```
 
 ## 🙌 Contributing
 
