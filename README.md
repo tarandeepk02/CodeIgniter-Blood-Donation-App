@@ -57,8 +57,8 @@ The **CodeIgniter-Blood-Donation-App (i Blood Donor)** is a web-based applicatio
 ### 📊 Admin Dashboard  
 ![Admin Dashboard](screenshots/admin-dashboard.png)
 
-### ➕ Add Blood Group  
-![Add Blood Group](screenshots/add-blood-group.png)
+### ➕ View Blood Group  
+![View Blood Group](screenshots/view-blood-group.png)
 
 ### 👤 Donor Registration Page  
 ![Donor Signup](screenshots/donor-signup.png)
