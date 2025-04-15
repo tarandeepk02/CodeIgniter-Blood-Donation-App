@@ -60,9 +60,9 @@ The **CodeIgniter-Blood-Donation-App (i Blood Donor)** is a web-based applicatio
    ```
 2. Move project to your local server root
 
-For XAMPP: htdocs/
-
-For WAMP: www/
+    For XAMPP: htdocs/
+   
+    For WAMP: www/
 
 3. Create a MySQL database
 
@@ -80,3 +80,17 @@ For WAMP: www/
     ```
     http://localhost/CodeIgniter-Blood-Donation-App
     ```
+---
+
+### 🔐 Default Login Credentials   
+   ## 👨‍💼 Admin Login
+   
+   Email: admin@gmail.com
+   
+   Password: 123456
+   
+   ## 👨‍💼 Donor Login
+   
+   Email: donor@gmail.com
+   
+   Password: 123456
