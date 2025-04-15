@@ -114,4 +114,4 @@ The **CodeIgniter-Blood-Donation-App (i Blood Donor)** is a web-based applicatio
 
 ## 🙌 Contributing
 
-      Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you'd like to change.  
+Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you'd like to change.  
